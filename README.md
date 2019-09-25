@@ -10,3 +10,4 @@ Email me with any questions!
 This will provide everything needed including the embedded form provided by Tami.
 
 - All of the CSS used can be found in the CSS folder in the "main.css" file
+- The graphics used are in the 'img' folder but because they are duplicates of graphics that are used elsewhere, the original source graphics should be used instead.
