@@ -10,7 +10,6 @@ Email me with any questions!
 This will provide everything needed including the embedded form provided by Tami.
 
 - All of the CSS used can be found in the CSS folder in the "main.css" file.  The minified version can be copied below.
-- The graphics used are in the 'img' folder but because they are duplicates of graphics that are used elsewhere, the original source graphics should be used instead.
 
 ### HTML
 ```html
@@ -46,14 +45,6 @@ This will provide everything needed including the embedded form provided by Tami
                         formId: "04f2b36f-b88e-4937-a43a-930339610c3f"
                         });
                         </script>
-                        <!-- <div class="form-group">
-                            <label for="firstName">First Name</label>
-                            <input type="text" placeholder="Enter your first name" class="form-control">
-                        </div>
-                        <div class="form-group">
-                            <label for="lastName">Last Name</label>
-                            <input type="password" placeholder="Enter your last name" class="form-control">
-                        </div> -->
                     </form>
                 </p>
             </div>
