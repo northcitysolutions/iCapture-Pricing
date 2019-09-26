@@ -9,10 +9,10 @@ Email me with any questions!
 ```<!-- iCapture Pricing Panel with Form -->``` (entire code snippet provided below)
 This will provide everything needed including the embedded form provided by Tami.
 
-- All of the CSS used can be found in the CSS folder in the "main.css" file
+- All of the CSS used can be found in the CSS folder in the "main.css" file.  The minified version can be copied below.
 - The graphics used are in the 'img' folder but because they are duplicates of graphics that are used elsewhere, the original source graphics should be used instead.
 
-
+### HTML
 ```html
 <!-- iCapture Pricing Panel with Form -->
         <div class="row">
@@ -59,4 +59,9 @@ This will provide everything needed including the embedded form provided by Tami
             </div>
         </div>
 <!-- END iCapture Pricing Panel -->
+```
+
+### CSS
+```CSS
+.pricingPanel{background:#f3f6fb 0 0 no-repeat padding-box;-webkit-box-shadow:0 3px 6px #00000029;box-shadow:0 3px 6px #00000029;border-radius:5px;opacity:1}.pricingPanel_h2{font-size:40px;text-align:center;letter-spacing:0;color:#1c3664;opacity:1}.pricingPanel_body{padding:30px 20px 50px 20px;text-align:left;font-size:18px!important;letter-spacing:0;color:#1c3664AC;opacity:1}.pricingForm_proof_container{padding:0;margin:0;width:100%;height:100px}#pricingForm_proof_staples{background:transparent url(../img/284802honeywell_logo-113.png) 0 0 no-repeat padding-box;opacity:1;width:130px;height:60px;background-position:center;background-size:contain;display:inline-block}#pricingForm_proof_ge{background:transparent url(../img/663050GECriticalPowerLogo-113.png) 0 0 no-repeat padding-box;opacity:1;width:130px;height:60px;background-position:center;background-size:contain;display:inline-block}#pricingForm_proof_trendMicro{background:transparent url(../img/657374TrendMicroLogo-113.png) 0 0 no-repeat padding-box;opacity:1;width:130px;height:60px;background-position:center;background-size:contain;display:inline-block}#pricingForm_proof_3m{background:transparent url(../img/8895803M_logo-113.png) 0 0 no-repeat padding-box;opacity:1;width:130px;height:60px;background-position:center;background-size:contain;display:inline-block}.pricingForm{padding:0 30px 20px 30px}.pricingForm label{padding-left:3px;font-size:11px;letter-spacing:0;color:#1c3664;text-transform:uppercase;opacity:1}.pricingForm_h2{padding-top:0;margin-top:0;font-size:40px;text-align:center;letter-spacing:0;color:#1c3664;opacity:1}@media screen and (max-width:600px){.pricingForm_proof_container{display:none}}
 ```
