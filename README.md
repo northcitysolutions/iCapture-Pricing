@@ -13,7 +13,7 @@ This will provide everything needed including the embedded form provided by Tami
 - The graphics used are in the 'img' folder but because they are duplicates of graphics that are used elsewhere, the original source graphics should be used instead.
 
 
-```
+```html
 <!-- iCapture Pricing Panel with Form -->
         <div class="row">
             <div class="pricingPanel col-md-6">
